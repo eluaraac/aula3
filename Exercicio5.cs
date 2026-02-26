@@ -23,5 +23,6 @@ public static class Exercicio5
         Console.WriteLine($"Total vendido: R$ {totalVendido:F2}");
         Console.WriteLine($"Comissão: R$ {comissao:F2}");
         Console.WriteLine($"Total a receber: R$ {totalReceber:F2}");
+        
     }
 }
